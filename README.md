@@ -59,6 +59,5 @@ Estas características hacen que sea la tienda menos rentable y con menor potenc
 ## 👤 Autor
 
 **Sebastián Ravenna**
-[Email](mailto:sebastian.ravenna@gmail.com)
 
 ---
