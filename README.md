@@ -49,7 +49,7 @@ Estas características hacen que sea la tienda menos rentable y con menor potenc
 
 1. Cloná este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   git clone https://github.com/sebastianRavenna/Challenge_Alura_Store
    ```
 2. Abrí el archivo `informe_final.ipynb` en Google Colab.
 3. Ejecutá las celdas para ver el análisis completo con visualizaciones.
